@@ -1,0 +1,24 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --theme-cream: #F6F4EB;
+    --theme-cream-surface: #FCFAF6;
+    --theme-slate: #C1CCD6;
+    --theme-slate-light: #DEE5ED;
+    --theme-slate-dark: #64748B;
+    --theme-navy: #262F44;
+    --theme-navy-dark: #1D2436;
+    --theme-navy-light: #35405A;
+  }
+
+  body {
+    font-family: 'Sarabun', -apple-system, BlinkMacSystemFont, sans-serif;
+    background-color: var(--theme-cream);
+    color: var(--theme-navy);
+  }
+
+  h1, h2, h3, .font-display {
+    font-family: 'Raleway', 'Sarabun', sans-serif;
+  }
+}

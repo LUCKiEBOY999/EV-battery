@@ -1,0 +1,6 @@
+{
+  "name": "แดชบอร์ดสุขภาพแบตเตอรี่ EV",
+  "description": "การวิเคราะห์การเสื่อมสภาพของแบตเตอรี่รถยนต์ไฟฟ้า (EV) ด้วยระเบียบวิธี CRISP-DM และ Random Forest บนชุดข้อมูลจำลอง",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
